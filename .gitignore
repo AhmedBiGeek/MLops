@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+mlruns/
+mlflow.db
+models/
+data/processed/
+.prefect/
+*.pyc
+.DS_Store
+prefect.db
